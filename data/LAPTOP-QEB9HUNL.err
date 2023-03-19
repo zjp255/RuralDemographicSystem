@@ -1,0 +1,15 @@
+2022-11-22T11:28:52.435542Z 0 [Warning] [MY-010915] [Server] 'NO_ZERO_DATE', 'NO_ZERO_IN_DATE' and 'ERROR_FOR_DIVISION_BY_ZERO' sql modes should be used with strict mode. They will be merged with strict mode in a future release.
+2022-11-22T11:28:52.438069Z 0 [System] [MY-010116] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe (mysqld 8.0.30) starting as process 16980
+2022-11-22T11:28:52.482445Z 0 [Warning] [MY-010075] [Server] No existing UUID has been found, so we assume that this is the first time that this server has been started. Generating a new UUID: d793d13e-6a58-11ed-8b88-902e16702c4f.
+2022-11-22T11:28:52.494216Z 0 [Warning] [MY-013907] [InnoDB] Deprecated configuration parameters innodb_log_file_size and/or innodb_log_files_in_group have been used to compute innodb_redo_log_capacity=100663296. Please use innodb_redo_log_capacity instead.
+2022-11-22T11:28:52.505591Z 1 [ERROR] [MY-011011] [Server] Failed to find valid data directory.
+2022-11-22T11:28:52.507325Z 0 [ERROR] [MY-010020] [Server] Data Dictionary initialization failed.
+2022-11-22T11:28:52.508642Z 0 [ERROR] [MY-010119] [Server] Aborting
+2022-11-22T11:28:52.511926Z 0 [System] [MY-010910] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: Shutdown complete (mysqld 8.0.30)  MySQL Community Server - GPL.
+2022-11-22T11:30:26.336081Z 0 [Warning] [MY-010915] [Server] 'NO_ZERO_DATE', 'NO_ZERO_IN_DATE' and 'ERROR_FOR_DIVISION_BY_ZERO' sql modes should be used with strict mode. They will be merged with strict mode in a future release.
+2022-11-22T11:30:26.338008Z 0 [System] [MY-010116] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe (mysqld 8.0.30) starting as process 23984
+2022-11-22T11:30:26.351293Z 0 [Warning] [MY-013907] [InnoDB] Deprecated configuration parameters innodb_log_file_size and/or innodb_log_files_in_group have been used to compute innodb_redo_log_capacity=100663296. Please use innodb_redo_log_capacity instead.
+2022-11-22T11:30:26.356480Z 1 [ERROR] [MY-011011] [Server] Failed to find valid data directory.
+2022-11-22T11:30:26.357869Z 0 [ERROR] [MY-010020] [Server] Data Dictionary initialization failed.
+2022-11-22T11:30:26.359220Z 0 [ERROR] [MY-010119] [Server] Aborting
+2022-11-22T11:30:26.360281Z 0 [System] [MY-010910] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: Shutdown complete (mysqld 8.0.30)  MySQL Community Server - GPL.
